@@ -9,7 +9,7 @@ function App() {
   const [updateId, setUpdateId] = useState(null);
 
   // const apiUrl = "https://localhost:7076/api/Product";
-    const apiUrl = "https://amar-api-test.azurewebsites.net/api/Product";
+    const apiUrl = "https://amar-api-test-ckfvg6gdf2drdbfj.southindia-01.azurewebsites.net//api/Product";
 
   // Fetch products
   const fetchProducts = async () => {
